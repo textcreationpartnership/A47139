@@ -176,7 +176,13 @@ hactenus Geometras latuit. <hi>and in Schol. ad 16. 4. Elem.</hi> Coeterum
 diviſio circumferentiae in partes datas etiamnum deſideratur.</p>
             <div type="praxis">
                <head>The Praxis of the Triſection of any given Angle.</head>
-               <figure/>
+               <p>Suppoſe the given Angle to be the Angle of 150 Degrees, made by
+the addition of 90 d. the Quadrant, and 60 d. the ⅙ of the Circle,
+whoſe exact Mathematical quantity is known. And let that Angle
+be in the ſubſequent Figure, the Angle BAC. whoſe Cord is BC,
+and the Arch anſwering to that Cord BFC.
+<figure/>
+               </p>
                <p>
                   <pb n="4" facs="tcp:37417:3"/>
 1. Divide the Cord BC into 3 equal Parts, as BE=EE=EC by 10.
@@ -495,10 +501,15 @@ alſo to demonſtrate the ſame.</p>
                <p>Wherefore in the next place I ſhall proceed to ſhew how a Semi<g ref="char:EOLhyphen"/>circle
 may be ſected into any number of equal parts, <hi>even</hi> as 4. 6. 8. 10,
 <hi>&amp;c.</hi> or <hi>uneven,</hi> as 5. 7. 9. 11.</p>
-               <figure/>
-               <figure/>
-               <figure/>
-               <figure/>
+               <p>
+                  <pb facs="tcp:37417:8"/>
+                  <pb facs="tcp:37417:9"/>
+                  <figure/>
+                  <figure/>
+                  <pb facs="tcp:37417:9"/>
+                  <figure/>
+                  <figure/>
+               </p>
             </div>
             <div type="praxis">
                <pb facs="tcp:37417:10"/>
